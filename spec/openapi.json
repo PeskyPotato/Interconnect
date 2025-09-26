@@ -1543,13 +1543,13 @@
             "description": "Identifier. Unique identifier for the Channel resource.",
             "type": "string"
           },
-          "macsecManagerProviderId": {
-            "description": "Output only. The provider responsible for managing MacSec key rotations.\n\nThis field must prevent the non-manager provider from calling Macsec\nAPIs.",
+          "macsecManagerProvider": {
+            "description": "Output only. The URI of the provider responsible for managing MacSec key rotations.\n\nThis field must prevent the non-manager provider from calling Macsec\nAPIs.",
             "readOnly": true,
             "type": "string"
           },
-          "crossConnectManagerProviderId": {
-            "description": "Output only. The provider responsible for managing physical crossconnects.  This\nincludes cross connect costs and any troubleshooting requests to the vendor\nproviding the cross connect.",
+          "crossConnectManagerProvider": {
+            "description": "Output only. The URI of the provider responsible for managing physical crossconnects.  This\nincludes cross connect costs and any troubleshooting requests to the vendor\nproviding the cross connect.",
             "readOnly": true,
             "type": "string"
           },
