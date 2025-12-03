@@ -2,7 +2,7 @@
 
 Describes the OpenAPI 3.0 specification of the symmetric API to be used to coordinate managed L3 connectivity.
 
-## Goverance
+## Governance
 
 The specification is governed under the specifics as laid out in the [GOVERNANCE MODEL](governance/GOVERNANCE_MODEL.md).
 
