@@ -6,7 +6,7 @@ documentation, we greatly value feedback and contributions from our community.
 Please read through this document before submitting any issues or pull requests to ensure we have all the necessary
 information to effectively respond to your bug report or contribution.
 
-Also, please note that any and all contributions to this project are governed by the [GOVERNANCE MODEL](governance/GOVERANCE_MODEL.md).  Any requests for modification that do not meet the criteria as outlined there, will not be considered.
+Also, please note that any and all contributions to this project are governed by the [GOVERNANCE MODEL](governance/GOVERNANCE_MODEL.md).  Any requests for modification that do not meet the criteria as outlined there, will not be considered.
 
 ## Reporting Bugs/Feature Requests
 
